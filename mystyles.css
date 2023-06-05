@@ -22,3 +22,12 @@ body {
   object-fit: cover;
   object-position: 100% center;
 }
+
+.image {
+  width: 40vmin;
+  height: 56vmin;
+  object-fit: cover;
+  object-position: 100% center;
+
+  /* Add any other desired styles */
+}
